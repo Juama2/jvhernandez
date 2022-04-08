@@ -1,0 +1,67 @@
+body{
+    position: absolute;
+    width: 1440px;
+    height: 1024px;
+    left: 0px;
+    top: -12px;
+
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.fondo{position: absolute;
+    width: 1440px;
+    height: 200px;
+    left: 0px;
+    top: 3px;
+
+    background: #DCDDEE;
+}
+.titulo{
+    position: absolute;
+    width: 700px;
+    height: 100px;
+    left: 600px;
+    top: 64px;
+
+    font-family: Poppins;
+    font-style:initial;
+    font-weight: 300;
+    font-size: 50px;
+    line-height: 4px;
+
+    /* Dark */
+
+    color: #283035;
+}
+.definicion{
+    position: absolute;
+    width: 1350px;
+    height: 400px;
+    left: 40px;
+    top: 240px;
+    text-align: justify;
+
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 200;
+    font-size: 25px;
+    line-height: 30px;
+
+    color: #000000;
+}
+.imagen{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    left: 550px;
+    top: 600px;
+
+    border-radius: 10px;
+
+    background: url(Landing.jpeg)
+}
+.textofooter1{
+    position: absolute;
+    left: 50px;
+    top: 900px;
+}
